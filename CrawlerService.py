@@ -70,10 +70,11 @@ def connect_to_endpoint(url, headers):
 
 
 def create_nodes_file():
-     crypto = get_crypto()
-     with open('node.csv', mode='w') as crypto_file:
+    crypto = get_crypto()
+    with open('node.csv', mode='w') as crypto_file:
+        crypto_writer = csv.writer(crypto_file, delimiter=',', quotechar='"', quoting=csv.QUOTE_MINIMAL)
+        crypto_writer.writerow(['id', 'cryptocurrency'])
         for i in range(len(crypto)):
-            crypto_writer = csv.writer(crypto_file, delimiter=',', quotechar='"', quoting=csv.QUOTE_MINIMAL)
             crypto_writer.writerow([str(i), crypto[i][0][1:]])
 
 
