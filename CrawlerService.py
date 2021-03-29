@@ -1,5 +1,6 @@
 import csv
 import operator
+import string
 from datetime import *
 import os
 import nltk
@@ -7,6 +8,10 @@ from nltk.sentiment.vader import SentimentIntensityAnalyzer
 import requests
 import json
 import tweepy
+import pandas as pd
+from nltk.corpus import stopwords
+from nltk.stem import PorterStemmer
+import json
 
 nltk.download('vader_lexicon')
 
@@ -69,6 +74,9 @@ def connect_to_endpoint(url, headers):
     return response.json()
 
 
+cryptocurrencies = []
+
+
 def create_nodes_file():
     crypto = get_crypto()
     with open('node.csv', mode='w') as crypto_file:
@@ -76,13 +84,62 @@ def create_nodes_file():
         crypto_writer.writerow(['id', 'cryptocurrency'])
         for i in range(len(crypto)):
             crypto_writer.writerow([str(i), crypto[i][0][1:]])
+            cryptocurrencies.append(crypto[i][0][1:])
+
+
+def load_dataset(file_path):
+    return pd.read_csv(file_path)
+
+
+def convert_article_to_lower_case(df_article):
+    return df_article.apply(lambda x: x.lower())
+
+
+def punctuation_removal(messy_str):
+    punctuation = string.punctuation + "“’…–”‘"
+    clean_str = messy_str.translate(str.maketrans('', '', punctuation))
+    return clean_str
+
+
+def remove_stopwords(df_article):
+    stop = stopwords.words('english')
+    return df_article.apply(lambda x: [item for item in x if item not in stop])
+
+
+def clean_tweets(filename):
+    pd.set_option('mode.chained_assignment', None)
+    df = load_dataset('./tweets_csv_files/' + filename)
+    df['tweet_text'] = df['tweet_text'].str.replace(r'http\S+', '', regex=True)
+    df['tweet_text'] = df['tweet_text'].str.replace(r'[^\x00-\x7F]+', '', regex=True)
+    df['tweet_text'] = convert_article_to_lower_case(df['tweet_text'])
+    df['tweet_text'] = df['tweet_text'].apply(punctuation_removal)
+    stop = stopwords.words('english')
+    stop.append('amp')
+    stemmer = PorterStemmer()
+    df['tweet_without_stopwords'] = df['tweet_text'].apply(lambda x: ' '.join([stemmer.stem(word) for word in x.split() if word not in stop]))
+    wordfreq = {}
+    for user in user_list:
+        wordfreq_user = {}
+        for sentence, username in zip(df['tweet_without_stopwords'], df['username']):
+            if username == user:
+                tokens = nltk.word_tokenize(sentence)
+                for token in tokens:
+                    if token not in wordfreq_user.keys():
+                        wordfreq_user[token] = 1
+                    else:
+                        wordfreq_user[token] += 1
+        wordfreq[user] = wordfreq_user
+    with open('./freq_tweets/' + filename.replace('.csv', '.json'), 'w') as f:
+        json.dump(wordfreq, f, indent=4)
+    header = ['cryptocurrency', 'username', 'user_id', 'followers_count', 'tweet_without_stopwords', 'created_date', 'retweet_count', 'reply_count', 'like_count', 'sentiment']
+    df.to_csv('./clean_tweets_csv_files/' + filename, encoding='utf-8-sig', columns=header, index=False)
 
 
 def main():
     crypto = get_crypto()
     bearer_token = auth()
     headers = create_headers(bearer_token)
-    with open('./tweets_csv_files/crypto_file_week2.csv', mode='w') as crypto_file:
+    with open('./tweets_csv_files/crypto_file_week3.csv', mode='w') as crypto_file:
         crypto_writer = csv.writer(crypto_file, delimiter=',', quotechar='"', quoting=csv.QUOTE_MINIMAL)
         crypto_writer.writerow(['cryptocurrency', 'username', 'user_id', 'followers_count', 'tweet_text', 'created_date', 'retweet_count', 'reply_count', 'like_count', 'sentiment'])
         for user in user_list:
@@ -97,11 +154,12 @@ def main():
                             sentiment_value = sid.polarity_scores(data['text'])
                             del sentiment_value['compound']
                             sentiment = max(sentiment_value.items(), key=operator.itemgetter(1))[0]
-                            crypto_writer.writerow([crypt[0], user, data['author_id'], api.get_user(data['author_id']).followers_count, data['text'].encode('unicode_escape'), data['created_at'], data['public_metrics']['retweet_count'], data['public_metrics']['reply_count'], data['public_metrics']['like_count'], sentiment])
+                            crypto_writer.writerow([crypt[0], user, data['author_id'], api.get_user(data['author_id']).followers_count, data['text'].encode('ascii', 'ignore').decode('utf8'), data['created_at'], data['public_metrics']['retweet_count'], data['public_metrics']['reply_count'], data['public_metrics']['like_count'], sentiment])
                 url = create_url(user, str(int(json_response["meta"]["oldest_id"]) - 1))
                 json_response = connect_to_endpoint(url, headers)
 
 
 if __name__ == "__main__":
     # create_nodes_file()
-    main()
+    # main()
+    clean_tweets('crypto_file_week3.csv')
