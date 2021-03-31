@@ -1,211 +1,245 @@
 cryptocurrency,username,user_id,followers_count,tweet_text,created_date,retweet_count,reply_count,like_count,sentiment
-#bitcoin,rogerkver,176758255,656075,"I recently paid with #BitcoinCash to renew the Bitcoin dot com domain name.
-Paying with #Bitcoin would have cost more in fees than the renewal itself.
-https://t.co/1kakAR7WVC",2021-03-23T20:09:12.000Z,110,139,606,neu
-#bitcoin,aantonop,1469101279,573389,"The Q&amp;A livestream is beginning! Join to learn about #crypto, #bitcoin, and open blockchains: https://t.co/BKojmoEMEe https://t.co/PxnNojWb8b",2021-03-28T17:00:21.000Z,6,0,46,neu
-#bitcoin,aantonop,1469101279,573389,"This months open topic Q&amp;A livestream starts in 30min. Ill be answering questions about #bitcoin, #ethereum, #lightningnetwork and more! Join the chat now: https://t.co/BKojmoEMEe https://t.co/yrVcH8tgdf",2021-03-28T16:30:09.000Z,12,1,47,neu
-#ethereum,aantonop,1469101279,573389,"This months open topic Q&amp;A livestream starts in 30min. Ill be answering questions about #bitcoin, #ethereum, #lightningnetwork and more! Join the chat now: https://t.co/BKojmoEMEe https://t.co/yrVcH8tgdf",2021-03-28T16:30:09.000Z,12,1,47,neu
-#bitcoin,aantonop,1469101279,573389,"Dont forget! Tomorrow is this months Q&amp;A livestream, top voted topics include #bitcoin energy consumption and transaction fees. Set a reminder: https://t.co/BKojmoEMEe https://t.co/3SoIbXKloG",2021-03-27T20:00:09.000Z,18,9,81,neu
-#bitcoin,aantonop,1469101279,573389,"Want to pay less for #bitcoin transaction fees? Learn to use replace by fee and child pays for parent, which are two fee management features your wallet might already have: https://t.co/LtvVsDIbJn https://t.co/DOCbS4suhl",2021-03-26T08:00:09.000Z,16,2,75,neu
-#bitcoin,aantonop,1469101279,573389,New to #bitcoin? Wondering what it is and why it matters? Watch this: https://t.co/4khQULZdDR #crypto https://t.co/qO7YaTwzoE,2021-03-25T20:00:14.000Z,56,6,194,neu
-#bitcoin,aantonop,1469101279,573389,One of the comments on this video is short and sweet to the point and clear. Learn for yourself about stuck #bitcoin transactions in less than 5 minutes: https://t.co/TwB34TE1ii https://t.co/47RQw5LGtQ,2021-03-25T08:00:08.000Z,12,4,75,neu
-#bitcoin,aantonop,1469101279,573389,"Flying standby doesnt always end well, whether in aviation or in #bitcoin. See what I mean in The #Crypto Airplane: https://t.co/xm8A3lBihi https://t.co/5NGNNwBn9c",2021-03-24T14:01:09.000Z,14,6,113,neu
-#bitcoin,aantonop,1469101279,573389,"Heres what a #crypto mnemonic phrase is, and how it relates to #bitcoin &amp; #ethereum private keys: https://t.co/UL4qwE81nr https://t.co/9A0LwJnWXj",2021-03-23T08:00:11.000Z,15,2,58,neu
-#ethereum,aantonop,1469101279,573389,"Heres what a #crypto mnemonic phrase is, and how it relates to #bitcoin &amp; #ethereum private keys: https://t.co/UL4qwE81nr https://t.co/9A0LwJnWXj",2021-03-23T08:00:11.000Z,15,2,58,neu
-#bitcoin,ErikVoorhees,61417559,434339,"Because of the profit motive and capitalism, #Bitcoin is going to do more for the acceleration of green energy than every governmental panel and accord.
+#bitcoin,aantonop,1469101279,573049,"Getting a #bitcoin, #ethereum, or #lightningnetwork node up and running? This may help: https://t.co/6gTVeOvO6l https://t.co/nwrAXT7yjX",2021-03-31T02:00:11.000Z,21,6,89,neu
+#ethereum,aantonop,1469101279,573049,"Getting a #bitcoin, #ethereum, or #lightningnetwork node up and running? This may help: https://t.co/6gTVeOvO6l https://t.co/nwrAXT7yjX",2021-03-31T02:00:11.000Z,21,6,89,neu
+#bitcoin,aantonop,1469101279,573049,"The Q&amp;A livestream is beginning! Join to learn about #crypto, #bitcoin, and open blockchains: https://t.co/BKojmoEMEe https://t.co/PxnNojWb8b",2021-03-28T17:00:21.000Z,6,0,47,neu
+#bitcoin,aantonop,1469101279,573049,"This months open topic Q&amp;A livestream starts in 30min. Ill be answering questions about #bitcoin, #ethereum, #lightningnetwork and more! Join the chat now: https://t.co/BKojmoEMEe https://t.co/yrVcH8tgdf",2021-03-28T16:30:09.000Z,12,1,47,neu
+#ethereum,aantonop,1469101279,573049,"This months open topic Q&amp;A livestream starts in 30min. Ill be answering questions about #bitcoin, #ethereum, #lightningnetwork and more! Join the chat now: https://t.co/BKojmoEMEe https://t.co/yrVcH8tgdf",2021-03-28T16:30:09.000Z,12,1,47,neu
+#bitcoin,aantonop,1469101279,573049,"Dont forget! Tomorrow is this months Q&amp;A livestream, top voted topics include #bitcoin energy consumption and transaction fees. Set a reminder: https://t.co/BKojmoEMEe https://t.co/3SoIbXKloG",2021-03-27T20:00:09.000Z,18,9,83,neu
+#bitcoin,aantonop,1469101279,573049,"Want to pay less for #bitcoin transaction fees? Learn to use replace by fee and child pays for parent, which are two fee management features your wallet might already have: https://t.co/LtvVsDIbJn https://t.co/DOCbS4suhl",2021-03-26T08:00:09.000Z,16,2,76,neu
+#bitcoin,aantonop,1469101279,573049,New to #bitcoin? Wondering what it is and why it matters? Watch this: https://t.co/4khQULZdDR #crypto https://t.co/qO7YaTwzoE,2021-03-25T20:00:14.000Z,57,6,195,neu
+#bitcoin,aantonop,1469101279,573049,One of the comments on this video is short and sweet to the point and clear. Learn for yourself about stuck #bitcoin transactions in less than 5 minutes: https://t.co/TwB34TE1ii https://t.co/47RQw5LGtQ,2021-03-25T08:00:08.000Z,12,4,75,neu
+#bitcoin,aantonop,1469101279,573049,"Flying standby doesnt always end well, whether in aviation or in #bitcoin. See what I mean in The #Crypto Airplane: https://t.co/xm8A3lBihi https://t.co/5NGNNwBn9c",2021-03-24T14:01:09.000Z,14,6,112,neu
+#bitcoin,ErikVoorhees,61417559,434171,"Because of the profit motive and capitalism, #Bitcoin is going to do more for the acceleration of green energy than every governmental panel and accord.
 
-The statists will not be pleased about this.",2021-03-25T02:30:47.000Z,103,37,636,neu
-#bitcoin,tyler,24222556,593425,The US government will never ban #bitcoin. These questions have been asked and answered by regulators and courts for the last decade. This ship has sailed.,2021-03-27T18:01:04.000Z,1073,509,7624,neu
-#bitcoin,tyler,24222556,593425,"Marijuana is another thing that boomers got wrong. Glad to see New York correcting these misguided laws that have wasted tax payer money and destroyed so many lives. Boomers have also gotten the US dollar wrong too, thank god we have #bitcoin https://t.co/Gb9YCClkQb",2021-03-26T20:13:55.000Z,205,151,1813,neu
-#bitcoin,tyler,24222556,593425,"Temasek, a $306 billion Singapore sovereign wealth fund has been stacking #bitcoin since 2018. Next up, central banks!
-https://t.co/nwS5ZmaLVP",2021-03-25T13:04:21.000Z,573,108,2415,neu
-#bitcoin,tyler,24222556,593426,The ridicule and vitriol leveled at NFTs today by the traditional art world is reminiscent of how Wall Street and central bankers spoke of #bitcoin 10 years ago. And we all know how the story has been unfolding.,2021-03-24T21:48:34.000Z,251,152,1694,neu
-#bitcoin,tyler,24222556,593426,It's great to see celebrities like @lala start to discover #bitcoin as a hedge against all of the chaos and uncertainty in the world today. BTC is your best protection from government money printing and the oncoming inflation. Welcome aboard @Gemini La La! https://t.co/v6PUxuMHXX,2021-03-24T16:49:05.000Z,67,64,575,neu
-#bitcoin,tyler,24222556,593426,You can now buy a Tesla with #bitcoin,2021-03-24T12:38:12.000Z,485,239,5471,neu
-#bitcoin,tyler,24222556,593426,3/23/2021: Fed Chairman Jerome Powell says #bitcoin is a substitute for gold.,2021-03-24T04:23:24.000Z,851,267,5633,neu
-#bitcoin,tyler,24222556,593426,"FWIW, the U.S. dollar is more likely to collapse than #Bitcoin
-https://t.co/btm6uTdsFU",2021-03-23T21:10:36.000Z,69,101,629,neu
-#bitcoin,cameron,250980843,427722,#Bitcoin is cancel-proof,2021-03-28T18:17:21.000Z,204,134,2356,neu
-#bitcoin,cameron,250980843,427722,"Lets talk @RayDalio  #Bitcoin may have similar properties to gold but outlawing decentralized software is a much different problem. It requires you to essentially outlaw the Internet.
+The statists will not be pleased about this.",2021-03-25T02:30:47.000Z,102,37,637,neu
+#bitcoin,tyler,24222556,593495,The US government will never ban #bitcoin. These questions have been asked and answered by regulators and courts for the last decade. This ship has sailed.,2021-03-27T18:01:04.000Z,1092,524,7746,neu
+#bitcoin,tyler,24222556,593495,"Marijuana is another thing that boomers got wrong. Glad to see New York correcting these misguided laws that have wasted tax payer money and destroyed so many lives. Boomers have also gotten the US dollar wrong too, thank god we have #bitcoin https://t.co/Gb9YCClkQb",2021-03-26T20:13:55.000Z,207,151,1813,neu
+#bitcoin,tyler,24222556,593495,"Temasek, a $306 billion Singapore sovereign wealth fund has been stacking #bitcoin since 2018. Next up, central banks!
+https://t.co/nwS5ZmaLVP",2021-03-25T13:04:21.000Z,578,109,2417,neu
+#bitcoin,tyler,24222556,593495,The ridicule and vitriol leveled at NFTs today by the traditional art world is reminiscent of how Wall Street and central bankers spoke of #bitcoin 10 years ago. And we all know how the story has been unfolding.,2021-03-24T21:48:34.000Z,251,152,1693,neu
+#bitcoin,tyler,24222556,593495,It's great to see celebrities like @lala start to discover #bitcoin as a hedge against all of the chaos and uncertainty in the world today. BTC is your best protection from government money printing and the oncoming inflation. Welcome aboard @Gemini La La! https://t.co/v6PUxuMHXX,2021-03-24T16:49:05.000Z,67,65,571,neu
+#bitcoin,tyler,24222556,593495,You can now buy a Tesla with #bitcoin,2021-03-24T12:38:12.000Z,484,238,5468,neu
+#bitcoin,cameron,250980843,427763,"The story of how @tyler and I found #Bitcoin at a tech meetup....just kidding...it was in Ibiza in 2012!
 
-https://t.co/nVothvsrcq",2021-03-27T17:13:06.000Z,179,247,1376,neu
-#bitcoin,cameron,250980843,427722,Tesla plans to HODL #bitcoinpaid for cars.,2021-03-24T13:09:52.000Z,234,112,2774,neu
-#bitcoin,Cointelegraph,2207129125,733163,"Growing stablecoin holdings and a dropping ""All Exchange Stablecoin Ratio"" could potentially point at another upward move for #Bitcoin. https://t.co/PRDvEmmjKL",2021-03-29T12:26:03.000Z,10,10,59,neu
-#bitcoin,Cointelegraph,2207129125,733163,The first airline to accept #Bitcoin payment for tickets back in 2014 has now added Ether and Dogecoin as supported cryptocurrencies. https://t.co/qSDjNFGWLu,2021-03-29T12:13:32.000Z,37,12,165,neu
-#bitcoin,Cointelegraph,2207129125,733163,"Bitcoin may be going to $400,000! @mikemcglone11, a senior commodity strategist at Bloomberg Intelligence, believes #BTC may see exponential price growth in 2021.
+https://t.co/BLAbfFEqBl",2021-03-30T17:49:16.000Z,83,81,864,neu
+#bitcoin,cameron,250980843,427763,#Bitcoin is cancel-proof,2021-03-28T18:17:21.000Z,221,154,2473,neu
+#bitcoin,cameron,250980843,427763,"Lets talk @RayDalio  #Bitcoin may have similar properties to gold but outlawing decentralized software is a much different problem. It requires you to essentially outlaw the Internet.
 
-Are you equally bullish? https://t.co/VSYiExLNCj",2021-03-29T10:00:12.000Z,41,19,156,neu
-#bitcoin,Cointelegraph,2207129125,733163,"From nonsense currency to FOMO, billionaire investor ystein Stray Spetalen now wants in on #Bitcoin. https://t.co/fQ1SSz1Tva",2021-03-29T09:23:32.000Z,20,10,98,neu
-#bitcoin,Cointelegraph,2207129125,733163,"Could we see #Bitcoin mined with clean energy soon? @ArgoBlockchain
+https://t.co/nVothvsrcq",2021-03-27T17:13:06.000Z,180,250,1387,neu
+#bitcoin,cameron,250980843,427763,Tesla plans to HODL #bitcoinpaid for cars.,2021-03-24T13:09:52.000Z,232,112,2772,neu
+#bitcoin,Cointelegraph,2207129125,734737,"$70K Bitcoin, here we come! PayPal's long-awaited cryptocurrency payment feature for U.S. customers has propelled the #BTC price beyond $59,000. 
+
+Is this the start of another leg up? https://t.co/0stjTAqX27",2021-03-31T00:40:01.000Z,46,11,184,neu
+#bitcoin,Cointelegraph,2207129125,734737,"Did you know that at least one-in-four circulating #Bitcoin last changed hands during either Q2 2020 or Q1 2021?
+
+According to Glassnodes report, the number of long-term BTC holders continues to increase. https://t.co/q774N1sD7C",2021-03-31T00:20:01.000Z,6,1,41,neu
+#bitcoin,Cointelegraph,2207129125,734737,"All aboard the gains train! 
+
+#Bitcoins market capitalization has now surpassed the $1.1 trillion mark, but when will it reach $2 trillion?  https://t.co/RNWbsNWoYT
+
+(Reporting via @OsatoNomayo)",2021-03-30T23:00:09.000Z,12,6,83,neu
+#xrp,Cointelegraph,2207129125,734737,Ripple has agreed to acquire a 40% stake in cross-border payments firm Tranglo to further expand its On-Demand Liquidity service in Southeast Asia. Is this good news for #XRP holders? https://t.co/BjOFXInoxB,2021-03-30T20:15:04.000Z,24,11,85,neu
+#bitcoin,Cointelegraph,2207129125,734737,"$70K #Bitcoin, here we come! PayPal's long-awaited cryptocurrency payment feature for U.S. customers has propelled the BTC price beyond $59,000. 
+
+Is this the start of another leg up? https://t.co/0stjTAqX27",2021-03-30T19:50:01.000Z,39,7,173,neu
+#ethereum,Cointelegraph,2207129125,734737,Trading leveraged #Ethereum contracts can yield positive results but @noshitcoins explains how pro traders use the Iron Condor options strategy to profit with less downside risk. https://t.co/RBAVa3K6G0,2021-03-30T18:32:04.000Z,8,5,34,neu
+#bitcoin,Cointelegraph,2207129125,734737,"Did you know that at least one-in-four circulating Bitcoin last changed hands during either Q2 2020 or Q1 2021?
+
+According to Glassnodes report, the number of long-term #BTC holders continues to increase. https://t.co/q774N1sD7C",2021-03-30T18:30:11.000Z,9,0,41,neu
+#bitcoin,Cointelegraph,2207129125,734737,"#Bitcoin is inching closer to all-time highs not just against the dollar, but against gold as well. https://t.co/yCJykmINmy",2021-03-30T16:38:33.000Z,62,12,258,neu
+#bitcoin,Cointelegraph,2207129125,734737,"Another sports team becomes a #Bitcoin hodler! Major League Baseballs Oakland Athletics intends to keep BTC that fans pay for luxury seats at their ballpark. 
+
+Should other teams imitate this formula? https://t.co/YjBItFeFjp",2021-03-30T16:00:24.000Z,7,3,67,neu
+#ethereum,Cointelegraph,2207129125,734737,"Are you yield farming on other blockchains aside from #Ethereum? 
+
+Flamingo, a DeFi platform built on NEO, has seen steady growth since its launch. The zero-fee transaction feature has attracted several users who are tired of high gas fees. https://t.co/ft74F2usOb",2021-03-30T15:00:58.000Z,9,1,26,neu
+#bitcoin,Cointelegraph,2207129125,734737,"The digital ruble has minimal risk compared to cryptocurrencies like #Bitcoin, Russian State Dumas Anatoly Aksakov said. https://t.co/pCaAP4id9O",2021-03-30T10:03:33.000Z,4,15,25,neu
+#bitcoin,Cointelegraph,2207129125,734738,Stablecoin holdings on global crypto exchanges have soared to a new ATH. Are these inflows a sign for more bullish action for #BTC? https://t.co/o01PW385WE,2021-03-29T23:00:16.000Z,6,7,62,neu
+#ethereum,Cointelegraph,2207129125,734738,"BIG NEWS: Visa is piloting a program that will allow its partners to use the #Ethereum blockchain to settle transactions made in fiat. 
+ 
+Have we arrived in the future? https://t.co/vkfTdvr6PC",2021-03-29T21:40:01.000Z,98,21,438,neu
+#bitcoin,Cointelegraph,2207129125,734738,"The printer goes brrr, and #Bitcoin goes up? As stimulus checks arrive in the US, analysts believe that some may choose to invest in assets like BTC.
+
+Could this propel a bull run in April? https://t.co/kpKW5jJyJW
+
+(Reporting via @CointelegraphMT)",2021-03-29T20:45:03.000Z,29,3,98,neu
+#ethereum,Cointelegraph,2207129125,734738,"Can Pancakeswap flip Uniswap? The #Binance Smart chain-based DEX may overthrow current leaders in the space as more users escape high fees on #Ethereum.
+
+Are you bullish on $CAKE? https://t.co/thNwKgs4Of
+
+(Reporting via @CointelegraphMT)",2021-03-29T20:30:19.000Z,25,22,127,neu
+#bitcoin,Cointelegraph,2207129125,734738,"Do Bitcoin hodlers have ironclad hands? 
+
+On-chain data suggests that traders who bought #BTC in the previous bull cycle are yet to sell their bags. Are you bullish as the market enters April? https://t.co/4z1mzvgOoL 
+
+(Reporting via @CointelegraphMT)",2021-03-29T20:15:00.000Z,16,10,63,neu
+#bitcoin,Cointelegraph,2207129125,734738,Stablecoin holdings on global crypto exchanges have soared to a new ATH. Are these inflows a sign for more bullish action for #Bitcoin? https://t.co/o01PW385WE,2021-03-29T18:30:18.000Z,8,5,56,neu
+#ethereum,Cointelegraph,2207129125,734738,Whats behind @Uniswaps massive daily fee generation? It appears that #Ethereums exorbitant gas prices are part of the equation.https://t.co/UtFwFFp5x8,2021-03-29T16:15:07.000Z,15,4,56,neu
+#bitcoin,Cointelegraph,2207129125,734738,"What can you do with your old Game Boy to stack some sats? An IT security researcher has been able to adapt the Nintendo console released in 1989 to mine #Bitcoin.
+
+Will you rather play games or mine BTC? https://t.co/epTA3VVLyD
+
+(Reporting via @onceatraveler)",2021-03-29T15:45:01.000Z,17,10,54,neu
+#bitcoin,Cointelegraph,2207129125,734738,"Do #Bitcoin hodlers have ironclad hands? 
+
+On-chain data suggests that traders who bought BTC in the previous bull cycle are yet to sell their bags. Are you bullish as the market enters April? https://t.co/4z1mzvgOoL 
+
+(Reporting via @CointelegraphMT)",2021-03-29T15:00:40.000Z,8,4,46,neu
+#bitcoin,Cointelegraph,2207129125,734738,"Growing stablecoin holdings and a dropping ""All Exchange Stablecoin Ratio"" could potentially point at another upward move for #Bitcoin. https://t.co/PRDvEmmjKL",2021-03-29T12:26:03.000Z,15,11,72,neu
+#bitcoin,Cointelegraph,2207129125,734738,The first airline to accept #Bitcoin payment for tickets back in 2014 has now added Ether and Dogecoin as supported cryptocurrencies. https://t.co/qSDjNFGWLu,2021-03-29T12:13:32.000Z,89,19,316,neu
+#bitcoin,Cointelegraph,2207129125,734738,"Bitcoin may be going to $400,000! @mikemcglone11, a senior commodity strategist at Bloomberg Intelligence, believes #BTC may see exponential price growth in 2021.
+
+Are you equally bullish? https://t.co/VSYiExLNCj",2021-03-29T10:00:12.000Z,43,23,179,neu
+#bitcoin,Cointelegraph,2207129125,734738,"From nonsense currency to FOMO, billionaire investor ystein Stray Spetalen now wants in on #Bitcoin. https://t.co/fQ1SSz1Tva",2021-03-29T09:23:32.000Z,22,9,103,neu
+#bitcoin,Cointelegraph,2207129125,734738,"Could we see #Bitcoin mined with clean energy soon? @ArgoBlockchain
 intends to launch an eco-friendly mining pool through a partnership with DMG Blockchain. https://t.co/FsNGfEeMPW
 
-(Reporting via @gregthomson88)",2021-03-29T02:00:32.000Z,21,13,60,neu
-#bitcoin,Cointelegraph,2207129125,733163,Former U.S. cybersecurity chief calls for more stringent oversight on cryptocurrencies like #Bitcoin in order to cut back on ransomware attacks. @Blockanalia reports https://t.co/W48c76bJ9Q,2021-03-27T18:21:03.000Z,17,12,67,neu
-#bitcoin,Cointelegraph,2207129125,733163,"Should more pension funds do this?
+(Reporting via @gregthomson88)",2021-03-29T02:00:32.000Z,22,13,60,neu
+#bitcoin,Cointelegraph,2207129125,734738,Former U.S. cybersecurity chief calls for more stringent oversight on cryptocurrencies like #Bitcoin in order to cut back on ransomware attacks. @Blockanalia reports https://t.co/W48c76bJ9Q,2021-03-27T18:21:03.000Z,17,12,65,neu
+#bitcoin,Cointelegraph,2207129125,734738,"Should more pension funds do this?
 
-New Zealand Wealth Funds Management has invested 5% of its $350 million retirement plan in #Bitcoin. The firm believes that you can't invest in gold without considering BTC. https://t.co/mOeWLKIZEc",2021-03-27T15:00:30.000Z,90,9,315,neu
-#bitcoin,Cointelegraph,2207129125,733163,"Bitcoin may be going to $400,000! Bloombergs @mikemcglone11, a senior commodity strategist at Bloomberg Intelligence, believes #BTC may see exponential price growth in 2021. https://t.co/VSYiExLNCj",2021-03-27T06:30:06.000Z,91,18,300,neu
-#bitcoin,Cointelegraph,2207129125,731685,Did you see this? Google searches for #Bitcoin emanating from Turkey exploded 24 hours after the value of the Turkish lira dropped 14% following the firing of a central bank governor. https://t.co/QNFdFNAUtJ,2021-03-27T05:30:05.000Z,71,23,384,neu
-#ethereum,Cointelegraph,2207129125,733163,"WOW. Could we see a 99.98% drop in Ethereum energy consumption?
+New Zealand Wealth Funds Management has invested 5% of its $350 million retirement plan in #Bitcoin. The firm believes that you can't invest in gold without considering BTC. https://t.co/mOeWLKIZEc",2021-03-27T15:00:30.000Z,89,9,315,neu
+#bitcoin,Cointelegraph,2207129125,734738,"Bitcoin may be going to $400,000! Bloombergs @mikemcglone11, a senior commodity strategist at Bloomberg Intelligence, believes #BTC may see exponential price growth in 2021. https://t.co/VSYiExLNCj",2021-03-27T06:30:06.000Z,91,18,299,neu
+#bitcoin,Cointelegraph,2207129125,734738,Did you see this? Google searches for #Bitcoin emanating from Turkey exploded 24 hours after the value of the Turkish lira dropped 14% following the firing of a central bank governor. https://t.co/QNFdFNAUtJ,2021-03-27T05:30:05.000Z,70,23,381,neu
+#ethereum,Cointelegraph,2207129125,734738,"WOW. Could we see a 99.98% drop in Ethereum energy consumption?
  
-#Eth1 and #Eth2 developers are actively working together on the merge, which is very promising news for making this become a reality. https://t.co/t9GEkbV3on",2021-03-27T00:20:01.000Z,87,14,353,neu
-#bitcoin,Cointelegraph,2207129125,733163,"New Zealand Wealth Funds Management has invested 5% of its $350 million retirement plan in Bitcoin. The firm believes that you can't invest in gold without considering #BTC. 
+#Eth1 and #Eth2 developers are actively working together on the merge, which is very promising news for making this become a reality. https://t.co/t9GEkbV3on",2021-03-27T00:20:01.000Z,86,14,351,neu
+#bitcoin,Cointelegraph,2207129125,734738,"New Zealand Wealth Funds Management has invested 5% of its $350 million retirement plan in Bitcoin. The firm believes that you can't invest in gold without considering #BTC. 
 
-Should more pension funds do this? https://t.co/mOeWLKIZEc",2021-03-26T21:20:01.000Z,71,14,314,neu
-#ethereum,Cointelegraph,2207129125,733163,"WOW. Could we see a 99.98% drop in #Ethereum energy consumption?
+Should more pension funds do this? https://t.co/mOeWLKIZEc",2021-03-26T21:20:01.000Z,70,14,312,neu
+#ethereum,Cointelegraph,2207129125,734738,"WOW. Could we see a 99.98% drop in #Ethereum energy consumption?
  
-Eth1 and Eth2 developers are actively working together on the merge, which is very promising news for making this become a reality. https://t.co/t9GEkbV3on",2021-03-26T18:45:03.000Z,89,26,356,neu
-#bitcoin,Cointelegraph,2207129125,733163,"Could we see #Bitcoin mined with clean energy soon? @ArgoBlockchain intends to launch an eco-friendly mining pool through a partnership with @dmgblockchain. https://t.co/FsNGfEeMPW
+Eth1 and Eth2 developers are actively working together on the merge, which is very promising news for making this become a reality. https://t.co/t9GEkbV3on",2021-03-26T18:45:03.000Z,88,26,356,neu
+#bitcoin,Cointelegraph,2207129125,734738,"Could we see #Bitcoin mined with clean energy soon? @ArgoBlockchain intends to launch an eco-friendly mining pool through a partnership with @dmgblockchain. https://t.co/FsNGfEeMPW
 
 (Reporting via @gregthomson88)",2021-03-26T17:30:23.000Z,11,6,60,neu
-#bitcoin,Cointelegraph,2207129125,733163,"New Zealand Wealth Funds Management has invested 5% of its $350 million retirement plan in #Bitcoin. The firm believes that you can't invest in gold without considering BTC. 
+#bitcoin,Cointelegraph,2207129125,734738,"New Zealand Wealth Funds Management has invested 5% of its $350 million retirement plan in #Bitcoin. The firm believes that you can't invest in gold without considering BTC. 
 
-Should more pension funds do this? https://t.co/mOeWLKIZEc",2021-03-26T16:15:07.000Z,64,8,229,neu
-#bitcoin,Cointelegraph,2207129125,733163,"Will you rather hodl BTC or your wife? A man who is deeply invested in #Bitcoin has been abandoned by his partner for failing to sell at $60K and buying the dip. https://t.co/JFlk2lNn3h
+Should more pension funds do this? https://t.co/mOeWLKIZEc",2021-03-26T16:15:07.000Z,62,8,226,neu
+#bitcoin,Cointelegraph,2207129125,734738,"Will you rather hodl BTC or your wife? A man who is deeply invested in #Bitcoin has been abandoned by his partner for failing to sell at $60K and buying the dip. https://t.co/JFlk2lNn3h
 
-(Reporting via @gregthomson88)",2021-03-26T08:40:01.000Z,39,59,261,neu
-#solana,Cointelegraph,2207129125,733163,"The Solana Foundation has raised $40 million from OKEx and MXC to launch strategic investment funds designed to fuel the ecosystems expansion. 
+(Reporting via @gregthomson88)",2021-03-26T08:40:01.000Z,38,59,259,neu
+#solana,Cointelegraph,2207129125,734738,"The Solana Foundation has raised $40 million from OKEx and MXC to launch strategic investment funds designed to fuel the ecosystems expansion. 
 
-Will this lead to more development on the #Solana blockchain? https://t.co/gJaQIa8S4n",2021-03-26T03:45:00.000Z,7,2,37,neu
-#bitcoin,Cointelegraph,2207129125,733163,"Will you rather hodl #BTC or your wife? A man who is deeply invested in Bitcoin has been abandoned by his partner for failing to sell at $60K and buying the dip. https://t.co/JFlk2lvLEH
+Will this lead to more development on the #Solana blockchain? https://t.co/gJaQIa8S4n",2021-03-26T03:45:00.000Z,8,2,38,neu
+#bitcoin,Cointelegraph,2207129125,734738,"Will you rather hodl #BTC or your wife? A man who is deeply invested in Bitcoin has been abandoned by his partner for failing to sell at $60K and buying the dip. https://t.co/JFlk2lvLEH
 
 (Reporting via @gregthomson88)",2021-03-26T03:00:01.000Z,14,32,94,neu
-#bitcoin,Cointelegraph,2207129125,733163,"Crypto mining companies are taking another hit beyond the fall of Bitcoin's price. Shares of Riot Blockchain, the popular #BTC mining firm, went down by as much as 14.4% on Thursday. https://t.co/0ltR93AGZz",2021-03-26T02:15:01.000Z,9,5,38,neu
-#bitcoin,Cointelegraph,2207129125,733163,"KiwiSaver Growth Strategy bought #Bitcoin at $10,000 in October. Its investments have gone up five-fold since. https://t.co/6MJaCRyBfu",2021-03-25T21:58:33.000Z,34,1,132,neu
-#bitcoin,Cointelegraph,2207129125,733163,"Who will have the first #Bitcoin ETF in the US? 
+#bitcoin,Cointelegraph,2207129125,734738,"Crypto mining companies are taking another hit beyond the fall of Bitcoin's price. Shares of Riot Blockchain, the popular #BTC mining firm, went down by as much as 14.4% on Thursday. https://t.co/0ltR93AGZz",2021-03-26T02:15:01.000Z,8,5,37,neu
+#bitcoin,Cointelegraph,2207129125,734738,"KiwiSaver Growth Strategy bought #Bitcoin at $10,000 in October. Its investments have gone up five-fold since. https://t.co/6MJaCRyBfu",2021-03-25T21:58:33.000Z,34,1,131,neu
+#bitcoin,Cointelegraph,2207129125,734738,"Who will have the first #Bitcoin ETF in the US? 
  
-@Fidelity is the latest company to file with the SEC. Are the tides changing in the States? https://t.co/LRHS8w9OdO",2021-03-25T21:20:01.000Z,18,4,112,neu
-#ethereum,Cointelegraph,2207129125,733163,"Are high #Ethereum gas fees shutting out emerging markets? 
+@Fidelity is the latest company to file with the SEC. Are the tides changing in the States? https://t.co/LRHS8w9OdO",2021-03-25T21:20:01.000Z,18,4,111,neu
+#ethereum,Cointelegraph,2207129125,734738,"Are high #Ethereum gas fees shutting out emerging markets? 
 
 Developed economies dominate the traffic rankings for the top DeFi protocols by TVL compared to the 10% engagement from developing countries. https://t.co/rK4WQ71HAL
 
 (Reporting via @samuel_haig)",2021-03-25T18:00:00.000Z,4,8,39,neu
-#bitcoin,Cointelegraph,2207129125,733163,"Is rejecting #Bitcoin similar to abandoning the dollar? 
+#bitcoin,Cointelegraph,2207129125,734738,"Is rejecting #Bitcoin similar to abandoning the dollar? 
 
 HashCash CEO Raj Chowdry believes that India will miss out on the most important currency the world has ever seen if the country bans crypto. https://t.co/mhwKReBKTi
 
-(Reporting via @gregthomson88)",2021-03-25T17:15:09.000Z,15,4,43,neu
-#bitcoin,Cointelegraph,2207129125,733163,#Bitcoin Cash is now worth less in BTC terms than ever after @Tesla warns customers not to send it any. https://t.co/OhdP3mtUbF,2021-03-25T09:41:03.000Z,25,9,118,neu
-#bitcoin cash,Cointelegraph,2207129125,733163,#Bitcoin Cash is now worth less in BTC terms than ever after @Tesla warns customers not to send it any. https://t.co/OhdP3mtUbF,2021-03-25T09:41:03.000Z,25,9,118,neu
-#bitcoin,Cointelegraph,2207129125,733163,"Do you stack sats with cashback platforms? 
+(Reporting via @gregthomson88)",2021-03-25T17:15:09.000Z,14,4,42,neu
+#bitcoin,Cointelegraph,2207129125,734738,#Bitcoin Cash is now worth less in BTC terms than ever after @Tesla warns customers not to send it any. https://t.co/OhdP3mtUbF,2021-03-25T09:41:03.000Z,25,9,117,neu
+#bitcoin cash,Cointelegraph,2207129125,734738,#Bitcoin Cash is now worth less in BTC terms than ever after @Tesla warns customers not to send it any. https://t.co/OhdP3mtUbF,2021-03-25T09:41:03.000Z,25,9,117,neu
+#bitcoin,Cointelegraph,2207129125,734738,"Do you stack sats with cashback platforms? 
 
 @trylolli, the popular #Bitcoin rewards app, has raised $5 million from investors, including Serena Williams and Reddit co-founder Alexis Ohanian. https://t.co/AQyx9818UG",2021-03-25T05:00:10.000Z,5,2,30,neu
-#bitcoin,Cointelegraph,2207129125,733163,"Do you stack sats with cashback platforms? 
+#bitcoin,Cointelegraph,2207129125,734738,"Do you stack sats with cashback platforms? 
 
 @trylolli, the popular #Bitcoin rewards app, has raised $5 million from investors, including @serenawilliams and Reddit co-founder Alexis Ohanian. https://t.co/AQyx9818UG",2021-03-25T02:45:01.000Z,5,3,36,neu
-#ethereum,Cointelegraph,2207129125,733163,"Will Ethereum gas fees ever get lower?
+#ethereum,Cointelegraph,2207129125,734738,"Will Ethereum gas fees ever get lower?
 
-The much-awaited EIP-1559 update may not reduce fees, according to a report by Coin Metrics. The increase of the #ETH price might mean a continuous uptrend in transaction cost. https://t.co/ZUNUPdQt0N",2021-03-24T22:00:25.000Z,13,6,58,neu
-#ethereum,Cointelegraph,2207129125,733163,"Will #Ethereum gas fees ever get lower?
+The much-awaited EIP-1559 update may not reduce fees, according to a report by Coin Metrics. The increase of the #ETH price might mean a continuous uptrend in transaction cost. https://t.co/ZUNUPdQt0N",2021-03-24T22:00:25.000Z,12,6,58,neu
+#ethereum,Cointelegraph,2207129125,734738,"Will #Ethereum gas fees ever get lower?
 
-The much-awaited EIP-1559 update may not reduce fees, according to a report by Coin Metrics. The increase of the ETH price might mean a continuous uptrend in transaction cost. https://t.co/ZUNUPdQt0N",2021-03-24T20:30:24.000Z,33,35,117,neu
-#bitcoin,Cointelegraph,2207129125,733163,Is this the sign that crypto has now officially arrived mainstream? @Tesla is accepting #Bitcoin from US customers! https://t.co/sJqSHzOl0d,2021-03-24T16:30:31.000Z,64,6,233,neu
-#harmony,Cointelegraph,2207129125,733163,"There aren't many 90+ VORTECS scores as they indicate high confidence, strong historical similarities to current market conditions, and a positive correlation with subsequent price action.
+The much-awaited EIP-1559 update may not reduce fees, according to a report by Coin Metrics. The increase of the ETH price might mean a continuous uptrend in transaction cost. https://t.co/ZUNUPdQt0N",2021-03-24T20:30:24.000Z,33,35,116,neu
+#bitcoin,Cointelegraph,2207129125,734738,Is this the sign that crypto has now officially arrived mainstream? @Tesla is accepting #Bitcoin from US customers! https://t.co/sJqSHzOl0d,2021-03-24T16:30:31.000Z,64,6,234,neu
+#harmony,Cointelegraph,2207129125,734738,"There aren't many 90+ VORTECS scores as they indicate high confidence, strong historical similarities to current market conditions, and a positive correlation with subsequent price action.
 
 https://t.co/odnDIl7J7D
 
 But here's a great example for #Harmony $ONE . (Thread.) https://t.co/tjtqyUPFeB",2021-03-24T15:13:55.000Z,14,6,66,neu
-#bitcoin,Cointelegraph,2207129125,733163,LIVE #BlockchainBooze session 52 welcomes  @wlrvs of @fold_app as host @levychain chats all things stacking sats and how we can accumulate #Bitcoin doing everyday things! Join networking at 6PM PT: https://t.co/I4oZ9Qe67v https://t.co/lU34QFVTL4,2021-03-24T00:00:51.000Z,11,4,55,neu
-#bitcoin,Cointelegraph,2207129125,733163,"Is there a current wealth transfer from long-term holders to new buyers in the #Bitcoin market?
-  
-Glassnode released a report that stated bull markets generally follow a similar wealth transfer path over three phases. Which phase are we in now? https://t.co/M7OTr08NOh",2021-03-23T17:00:29.000Z,13,8,31,neu
-#bitcoin,Cointelegraph,2207129125,733163,Prominent Indian entrepreneur and government advisor @NandanNilekani argued that cryptocurrencies like #Bitcoin should be allowed in India. https://t.co/MC606rt9zD,2021-03-23T08:04:33.000Z,25,5,80,neu
-#bitcoin,Cointelegraph,2207129125,733163,"Bitcoin has been up 900% in the past 12 months, but shares in these four #BTC mining firms have been up 5,000% in that same period. 
+#bitcoin,crypto,928759224599040001,315519,"It's #bitcoin for Babe Ruth as major sports memorabilia auction house now accepts #cryptocurrency https://t.co/yxtWRLZoTw 
 
-Can you guess which publicly traded companies they are? https://t.co/9dCoDnea4x",2021-03-23T02:45:01.000Z,10,3,58,neu
-#bitcoin,Cointelegraph,2207129125,733163,"Do #Bitcoin whales have iron-clad hands? Data suggests that only 36% of the BTC supply has moved in 6 months. 
+More on @crypto: https://t.co/0zxlpLi6TF #NFT",2021-03-31T03:30:09.000Z,10,2,37,neu
+#bitcoin,crypto,928759224599040001,315519,".@Dan_Schulman, the CEO of PayPal used the payment giants new Checkout with Crypto service to buy some boots https://t.co/UI5ipNjwEU $PYPL
 
-Is this an indicator that the bullish cycle is set to continue? https://t.co/zBQhSqQUmn",2021-03-23T01:20:01.000Z,27,7,81,neu
-#bitcoin,Cointelegraph,2207129125,731685,"Google searches for #Bitcoin from Turkey exploded in the past 24 hours after the Turkish lira's value dropped by 14%. 
+More on @crypto: https://t.co/LFhS7QOMby #Bitcoin https://t.co/FInsX5Tdg6",2021-03-31T02:58:00.000Z,38,6,108,neu
+#bitcoin,crypto,928759224599040001,315519,"When Lambo? Probably by the end of the year, says @jespow.
 
-Is this the start of a revolution in Turkey?  https://t.co/QNFdFNAUtJ 
+The CEO and founder of #cryptocurrency exchange Kraken speaks to @emilychangtv and @sonalibasak on how high he thinks #Bitcoin can go https://t.co/yfkGwDPMBy
 
-(Reporting via @gregthomson88)",2021-03-23T00:00:17.000Z,59,17,206,neu
-#bitcoin,Cointelegraph,2207129125,733163,"Which firm will be the first to get a #Bitcoin ETF in the US? 
+More on @crypto: https://t.co/NLRE84Up5T https://t.co/55ya7epGtu",2021-03-31T00:22:59.000Z,63,29,155,neu
+#bitcoin,crypto,928759224599040001,315519,"Congrats on your #Bitcoin profits. Here's how to handle the taxman https://t.co/4BMQRV1BKf via @bopinion 
 
-SkyBridge Capital is the latest company to file with the SEC. https://t.co/JMgSOSuDaM",2021-03-22T19:30:13.000Z,13,5,73,neu
-#bitcoin,Cointelegraph,2207129125,733163,"Bitcoin has been up 900% in the past 12 months, but shares in these four #Bitcoin mining firms have been up 5,000% in that same period. 
+More on @crypto: https://t.co/vvGPfHr5iP https://t.co/BQywACJImk",2021-03-29T03:06:17.000Z,53,26,163,neu
+#bitcoin,crypto,928759224599040001,315519,"Dawn Fitzpatrick, head of the legendary asset management shop sees an 'inflection point' for #Bitcoin and other #cryptocurrencies. The Soros Fund Management CIO, however, gives a mysterious response when asked if she owns any bitcoin.
 
-Can you guess which publicly traded companies they are? https://t.co/9dCoDnea4x",2021-03-22T19:15:01.000Z,12,4,64,neu
-#bitcoin,Cointelegraph,2207129125,733163,"#Bitcoin is ""essentially a substitute for gold"" says Fed Chair Jerome Powell https://t.co/PLLYYl3Xwl",2021-03-22T14:07:33.000Z,118,26,513,neu
-#bitcoin,crypto,928759224599040001,314003,"Congrats on your #Bitcoin profits. Here's how to handle the taxman https://t.co/4BMQRV1BKf via @bopinion 
+More on @crypto: https://t.co/YdUELlFmka https://t.co/shG841DxHw",2021-03-26T03:30:00.000Z,76,28,211,neu
+#filecoin,PhilakoneCrypto,715133222976270336,108869,"I'm done work today. That was an INTENSE 5 hours of hunting for top trades, being extremely patience, then executing with PRECISION. We nailed it down to #CHR + #FIL. FUCK YEAH baby whales! :)",2021-03-26T23:43:23.000Z,0,8,58,neu
+#filecoin,PhilakoneCrypto,715133222976270336,108869,2 minute trade on #FILUSDT for +$280 USD + earlier trade on CHR for +$400 USD. No time to record. Up +$850 CAD something. https://t.co/mkTkaT7V5O,2021-03-26T23:29:25.000Z,0,2,13,neu
+#bitcoin,Excellion,14654494,126226,The only way pension funds will be able to provide for their pensioners is if they buy #Bitcoin.,2021-03-28T22:35:05.000Z,94,6,819,neu
+#bitcoin,Excellion,14654494,126226,#Bitcoin  https://t.co/H9rK2T2Vrb,2021-03-26T08:00:47.000Z,18,1,136,neu
+#bitcoin,Excellion,14654494,126226,You can now buy @InfiniteFleet ships with #Bitcoin,2021-03-25T06:13:23.000Z,17,3,139,neu
+#bitcoin,iamjosephyoung,2272640503,131563,"The differences between 2017 #Bitcoin rally and 2020.
 
-More on @crypto: https://t.co/vvGPfHr5iP https://t.co/BQywACJImk",2021-03-29T03:06:17.000Z,51,22,156,neu
-#bitcoin,crypto,928759224599040001,314003,"Dawn Fitzpatrick, head of the legendary asset management shop sees an 'inflection point' for #Bitcoin and other #cryptocurrencies. The Soros Fund Management CIO, however, gives a mysterious response when asked if she owns any bitcoin.
-
-More on @crypto: https://t.co/YdUELlFmka https://t.co/shG841DxHw",2021-03-26T03:30:00.000Z,74,28,213,neu
-#bitcoin,crypto,928759224599040001,314003,JUST IN: Elon Musk says you can now buy a Tesla with Bitcoin  and it won't be converted into fiat currency https://t.co/jTqI4AUi6C #Bitcoin https://t.co/qXWUIQKSqs,2021-03-24T07:41:04.000Z,124,26,451,neu
-#bitcoin,crypto,928759224599040001,314003,"Norway recently emerged as the worlds most cashless society, but its central bank governor says people shouldnt start turning to #Bitcoin as an alternative https://t.co/E2OhM3IK69 
-
-More on @crypto: https://t.co/XSUaSw4x7g #Cryptocurrency https://t.co/YqnirQ0tOZ",2021-03-23T07:54:30.000Z,66,32,135,neu
-#filecoin,PhilakoneCrypto,715133222976270336,103829,"I'm done work today. That was an INTENSE 5 hours of hunting for top trades, being extremely patience, then executing with PRECISION. We nailed it down to #CHR + #FIL. FUCK YEAH baby whales! :)",2021-03-26T23:43:23.000Z,0,6,50,neu
-#filecoin,PhilakoneCrypto,715133222976270336,103829,2 minute trade on #FILUSDT for +$280 USD + earlier trade on CHR for +$400 USD. No time to record. Up +$850 CAD something. https://t.co/mkTkaT7V5O,2021-03-26T23:29:25.000Z,0,2,11,neu
-#bitcoin,Excellion,14654494,126380,The only way pension funds will be able to provide for their pensioners is if they buy #Bitcoin.,2021-03-28T22:35:05.000Z,88,6,767,neu
-#bitcoin,Excellion,14654494,126380,#Bitcoin  https://t.co/H9rK2T2Vrb,2021-03-26T08:00:47.000Z,18,1,168,neu
-#bitcoin,Excellion,14654494,126380,You can now buy @InfiniteFleet ships with #Bitcoin,2021-03-25T06:13:23.000Z,18,3,139,neu
-#bitcoin,Excellion,14654494,126380,You can now buy @Tesla's with #Bitcoin! It *was* inevitable.  https://t.co/fBD78hiskz,2021-03-24T06:44:12.000Z,449,7,2465,neu
-#bitcoin,Excellion,14654494,126380,Around 6 weeks ago was the last time we saw #Bitcoin in the $30k range. We'll likely never see those levels again. It's same for the $50k range. There'll be a point during the journey to $100k where we leave and never return. Stack here while you can. ,2021-03-23T04:59:15.000Z,148,3,886,neu
-#bitcoin,Excellion,14654494,126380,Dips are a ladder. #Bitcoin https://t.co/f9m2c7qNTV,2021-03-23T02:34:35.000Z,13,0,123,neu
-#bitcoin,Excellion,14654494,126380,@elonmusk when #Bitcoin price feed in Tesla dashboard?,2021-03-23T00:11:21.000Z,10,2,214,neu
-#bitcoin,iamjosephyoung,2272640503,131542,"October 2020: the PayPal rally
+No Tether FUD
+Exchanges regulated
+India FUD no longer effective
+China FUD no longer effective
+Better regulation in Asia
+Conviction from long-time HODLers
+All-time low $BTC exchange reserves
+Explosive institutional demand",2021-03-31T00:40:56.000Z,182,40,1121,neu
+#bitcoin,iamjosephyoung,2272640503,131563,"October 2020: the PayPal rally
 March 2021: the Visa rally
 
 What's next?
 
 There are too many major financial institutions that haven't onboarded cryptocurrencies yet. Just saying.
 
-#Bitcoin",2021-03-29T12:33:18.000Z,30,14,216,neu
-#bitcoin,iamjosephyoung,2272640503,131542,"How it started -&gt; How it's going
+#Bitcoin",2021-03-29T12:33:18.000Z,45,16,321,neu
+#bitcoin,iamjosephyoung,2272640503,131563,"How it started -&gt; How it's going
 
-#Bitcoin https://t.co/NfhDugEkOL",2021-03-29T09:02:18.000Z,163,24,796,neu
-#bitcoin,iamjosephyoung,2272640503,131542,"The supply crisis continuum
+#Bitcoin https://t.co/NfhDugEkOL",2021-03-29T09:02:18.000Z,222,28,1063,neu
+#bitcoin,iamjosephyoung,2272640503,131563,"The supply crisis continuum
 
-#Bitcoin https://t.co/EgNxRcXZDr",2021-03-24T17:34:24.000Z,93,15,515,neu
-#bitcoin,iamjosephyoung,2272640503,131542,"Wen Apple 
+#Bitcoin https://t.co/EgNxRcXZDr",2021-03-24T17:34:24.000Z,94,15,514,neu
+#bitcoin,cz_binance,902926941413453824,1283907,"I think I saw a number above $300.xx when I opened the https://t.co/ukvU1dD0G1 homepage just now, then it became $299.61. We are still in the dip. #BNB #BTC
 
-#Bitcoin",2021-03-24T07:27:48.000Z,52,28,857,neu
-#bitcoin,mdudas,7184612,52385,cool to see mainstream media like the @nypost publishing smarter pieces on #bitcoin https://t.co/GMMEgAwtI1,2021-03-28T12:08:54.000Z,1,3,15,neu
-#bitcoin,cz_binance,902926941413453824,1279507,"There was a time that I was worried that #bitcoin may not last. That was 8 years ago. I had only read the white paper. 
+Not financial advice. https://t.co/qC2XjlAo9v",2021-03-30T17:46:50.000Z,441,27,2931,neu
+#binance coin,cz_binance,902926941413453824,1283907,"I think I saw a number above $300.xx when I opened the https://t.co/ukvU1dD0G1 homepage just now, then it became $299.61. We are still in the dip. #BNB #BTC
+
+Not financial advice. https://t.co/qC2XjlAo9v",2021-03-30T17:46:50.000Z,441,27,2931,neu
+#bitcoin,cz_binance,902926941413453824,1283907,"We are still in the dip. Not financial advice.
+
+#BTC #BNB https://t.co/YhVQbWPgAT",2021-03-29T15:08:33.000Z,891,839,6191,neu
+#binance coin,cz_binance,902926941413453824,1283907,"We are still in the dip. Not financial advice.
+
+#BTC #BNB https://t.co/YhVQbWPgAT",2021-03-29T15:08:33.000Z,891,839,6191,neu
+#bitcoin,cz_binance,902926941413453824,1283907,"There was a time that I was worried that #bitcoin may not last. That was 8 years ago. I had only read the white paper. 
 
 After attending the first #bitcoin conference, I quit my job, sold my house, dove in and never looked back.
 
-Not financial advice.",2021-03-28T06:57:02.000Z,1448,688,9995,neu
-#bitcoin,cz_binance,902926941413453824,1279505,"#bitcoin is still closer to 0 than to $1,000,000.
+Not financial advice.",2021-03-28T06:57:02.000Z,1494,704,10177,neu
+#bitcoin,cz_binance,902926941413453824,1283907,"#bitcoin is still closer to 0 than to $1,000,000.
 
 You can interpret this in many different ways.
 
 Mine is: we are still early.
 
-Not financial advice.",2021-03-27T04:39:01.000Z,861,598,6127,neu
-#bitcoin,cz_binance,902926941413453824,1279507,"#bitcoin under a trillion just feels so ... wrong. 
+Not financial advice.",2021-03-27T04:39:01.000Z,863,606,6201,neu
+#bitcoin,cz_binance,902926941413453824,1283907,"#bitcoin under a trillion just feels so ... wrong. 
 
-Not financial advice.",2021-03-25T15:59:43.000Z,668,730,6900,neu
-#binance coin,cz_binance,902926941413453824,1279507,"Sometimes people ask me why #BNB price don't move on big positive news;
+Not financial advice.",2021-03-25T15:59:43.000Z,680,741,6920,neu
+#binance coin,cz_binance,902926941413453824,1283907,"Sometimes people ask me why #BNB price don't move on big positive news;
 Sometimes people ask me why #BNB price go up so quickly for no ""apparent"" reason.
 
- https://t.co/0ou4PruLQ2",2021-03-25T14:58:00.000Z,157,22,1559,neu
-#binance coin,cz_binance,902926941413453824,1279507,How much is a Tesla in #BNB?,2021-03-24T09:59:30.000Z,826,1134,8389,neu
-#binance coin,cz_binance,902926941413453824,1279505,"
-          
-  
-      *
-            
-                *. 
-                      *.
-                    #BNB
-                  
-              
-       *
-   * https://t.co/yen2eTngQg",2021-03-23T14:39:14.000Z,2285,1246,14138,neu
-#bitcoin,cz_binance,902926941413453824,1279507,"Like all the discussions around this time a year ago, in 3 years time, a whole new bunch of people will ask if the #bitcoin halving will an impact on its price. 
-
-Save this tweet for future reference. https://t.co/kVfO4jdVJC",2021-03-23T10:40:48.000Z,690,456,4104,neu
-#bitcoin,woonomic,13418472,366630,"NZ KiwiSaver pension fund, Growth Strategy.
+ https://t.co/0ou4PruLQ2",2021-03-25T14:58:00.000Z,158,22,1553,neu
+#binance coin,cz_binance,902926941413453824,1283907,How much is a Tesla in #BNB?,2021-03-24T09:59:30.000Z,824,1135,8387,neu
+#bitcoin,woonomic,13418472,366933,"NZ KiwiSaver pension fund, Growth Strategy.
 
 What's with the green boner?
 
-Oh yeah, they bought a small allocation into #Bitcoin Q4 2020. https://t.co/blhJF4UjLS",2021-03-26T10:36:49.000Z,318,70,2193,neu
-#bitcoin,woonomic,13418472,366630,"The 2015 -&gt; 2017 bull market
-""Making a name""
-
-Density map of the coin supply at the price they last moved. #Bitcoin https://t.co/IKgr7pVKLS",2021-03-23T09:17:01.000Z,111,71,979,neu
+Oh yeah, they bought a small allocation into #Bitcoin Q4 2020. https://t.co/blhJF4UjLS",2021-03-26T10:36:49.000Z,318,70,2201,neu

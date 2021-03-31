@@ -161,5 +161,5 @@ def main():
 
 if __name__ == "__main__":
     # create_nodes_file()
-    # main()
+    main()
     clean_tweets('crypto_file_week3.csv')
