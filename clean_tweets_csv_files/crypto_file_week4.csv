@@ -1,0 +1,97 @@
+﻿cryptocurrency,username,user_id,followers_count,tweet_without_stopwords,created_date,retweet_count,reply_count,like_count,sentiment
+#bitcoin,SatoshiLite,14338147,915440,litecoin rebranding bitcoinlite bitcoinlite satoshi nakamoto intended bitcoinlite bitcoinlitefam,2021-04-01T14:32:43.000Z,307,310,1793,neu
+#bitcoin,aantonop,1469101279,575558,explain difference replace fee child pays parent cases asked answer bitcoin btc,2021-04-04T15:15:03.000Z,9,5,62,neu
+#bitcoin,aantonop,1469101279,575558,bitcoin video cryptocurrency crypto,2021-04-04T09:05:11.000Z,49,16,211,neu
+#bitcoin,aantonop,1469101279,575558,voting blockchain technology hosts speakingofbitcoin discuss listen bitcoin blockchainvoting democracy,2021-04-03T19:20:08.000Z,14,6,87,neu
+#ethereum,aantonop,1469101279,575558,learn defi watch video answered 9 questions ethereum,2021-04-03T16:03:09.000Z,19,3,96,neu
+#bitcoin,aantonop,1469101279,575558,running node target address security concerns running node qampa crypto bitcoin,2021-04-03T00:35:05.000Z,22,6,93,neu
+#ethereum,aantonop,1469101279,575558,talked nft expire video ethereum nfts nftcollectibles,2021-04-02T19:30:18.000Z,9,1,54,neu
+#ethereum,aantonop,1469101279,575558,masteringethereum ya est disponible en espaol en la tienda de aantonop por favor aydenme difundir este mensaje entre las comunidades de habla hispana las pudieran formar parte ethereum,2021-04-02T15:40:17.000Z,10,1,33,neu
+#bitcoin,aantonop,1469101279,575558,bitcoin matter lambos teslas video remind watch share cryptocurrency crypto btc newtobitcoin,2021-04-02T14:45:03.000Z,36,8,147,neu
+#bitcoin,aantonop,1469101279,575558,person life crypto facts bitcoin,2021-04-02T02:00:10.000Z,46,2,173,neu
+#bitcoin,ErikVoorhees,61417559,436922,spoke jon caldara independent institute good 1 hr video recommend skeptical fed banking establishment unsure bitcoin independentinst finance endthefed usd liberty,2021-04-04T18:51:26.000Z,7,6,49,neu
+#bitcoin,tyler,24222556,604102,happy belated birthday satoshi nakamoto 46 years young yesterday bitcoin contribution individual freedom impactful printing press personal computer early open internet,2021-04-06T15:01:29.000Z,513,183,4338,neu
+#bitcoin,tyler,24222556,604102,big news gemini serve custodian trade execution partner btgpdigitals bitcoin 20 multimarket investment fund bitcoin fund launched brazilian investment bank onward,2021-04-05T20:03:35.000Z,120,61,885,neu
+#bitcoin,tyler,24222556,604102,bank bashes bitcoin exposure gemini,2021-04-01T13:26:56.000Z,40,57,401,neu
+#bitcoin,cameron,250980843,435799,excited gemini custodian trade execution partner btg pactual btgpdigital bitcoin 20 multimarket investment fund btc fund launched brazilian investment bank,2021-04-06T15:01:36.000Z,51,28,459,neu
+#bitcoin,Cointelegraph,2207129125,755554,coinbase invested seed money bitcoin data circulating social media reveals coinbases 800million profits q1 company 2 billion buying btc,2021-04-07T15:30:17.000Z,9,7,64,neu
+#bitcoin,Cointelegraph,2207129125,755554,ukbased argo blockchain recorded highest revenue rest catch asian miners report china responsible 75 bitcoin mining,2021-04-07T15:15:08.000Z,13,11,44,neu
+#bitcoin,Cointelegraph,2207129125,755554,governments implement progressive crypto regulations goldman sachs actively searches ways provide bitcoin exposure clients ceo predicted big evolution regulatory environment,2021-04-07T15:00:12.000Z,12,6,52,neu
+#polkadot,Cointelegraph,2207129125,755554,polkadot thirdlargest futures market surpassing litecoin xrp open interest climbed record high 1 billion bullish bearish dot reporting cointelegraphmt,2021-04-07T14:44:01.000Z,21,0,113,neu
+#bitcoin,Cointelegraph,2207129125,755554,bullish april great start bitcoins market cap stayed 1 trillion longest period onchain data suggests people hodling btc positive price action,2021-04-07T05:20:01.000Z,12,12,87,neu
+#bitcoin,Cointelegraph,2207129125,755554,glassnode reports 198 btc moved onchain market cap bitcoin held strong 1 trillion ten days future price btc,2021-04-07T01:40:01.000Z,14,6,85,neu
+#polkadot,Cointelegraph,2207129125,755554,tether coming polkadot oldest popular stablecoin deployed polkadot blockchain platform implemented parachain shards bullish dot,2021-04-06T20:15:08.000Z,23,6,150,neu
+#bitcoin,Cointelegraph,2207129125,755554,youve wanted bitcoin trading confidence skills book read,2021-04-06T17:26:33.000Z,9,9,53,neu
+#bitcoin,Cointelegraph,2207129125,755554,bitcoin ready major rally analysis possibility strong breakout foreseeable future btc stays 57046 continues test 60000 resistance reporting cointelegraphmt,2021-04-06T15:00:32.000Z,13,6,75,neu
+#bitcoin,Cointelegraph,2207129125,755554,bitcoin crush market cap gold analyst ark invest believes btc comfortably eclipse 10t market cap gold,2021-04-06T02:45:01.000Z,30,9,156,neu
+#bitcoin,Cointelegraph,2207129125,755554,bitcoin crush market cap gold analyst ark invest believes btc comfortably eclipse 10t market cap gold,2021-04-05T23:40:01.000Z,27,12,123,neu
+#bitcoin,Cointelegraph,2207129125,755554,quest bitcoin etf continues grayscale latest firm renew push btc etf,2021-04-05T22:20:01.000Z,23,11,105,neu
+#bitcoin,Cointelegraph,2207129125,755554,bitcoin 60k analysts forward coinbbase ipo event boost bullish sentiments btc leg reporting cointelegraphmt,2021-04-05T19:00:28.000Z,5,12,46,neu
+#bitcoin,Cointelegraph,2207129125,755554,gamestop sell 35 shares gme bitcoin find gamestop balance sheet,2021-04-05T17:00:08.000Z,3,3,37,neu
+#ethereum,Cointelegraph,2207129125,755554,ether wedding california couple immortalized marriage issuing tokenized rings ethereum blockchain wedding nfts replace diamond rings,2021-04-05T16:30:32.000Z,15,10,94,neu
+#ethereum,Cointelegraph,2207129125,755554,ethereum 26k bulls wrestling bears push price 214459 overhead resistance zone result alltime high eth reporting cointelegraphmt,2021-04-05T14:15:09.000Z,10,4,83,neu
+#bitcoin,Cointelegraph,2207129125,755554,bitcoin 60k analysts forward coinbbase ipo event boost bullish sentiments btc leg reporting cointelegraphmt,2021-04-05T14:00:37.000Z,11,5,45,neu
+#bitcoin,Cointelegraph,2207129125,755554,ebonex supports number cryptocurrencies including bitcoin ether usdt,2021-04-05T13:50:33.000Z,5,4,40,neu
+#bitcoin,Cointelegraph,2207129125,755554,history repeat bitcoin trading higher price south korea compared major markets time price difference reached 20 btc violent correction reporting cointelegraphmt,2021-04-05T13:45:01.000Z,11,9,55,neu
+#bitcoin,Cointelegraph,2207129125,755554,bitcoin leave gold digital dust btcs relative gold doubled months sevenfold october year,2021-04-05T04:40:00.000Z,48,20,175,neu
+#bitcoin,Cointelegraph,2207129125,755554,btc etfs canada firm 3iqcorp filed prospectus bitcoin etf pending approval trading early april tsxtsxv,2021-04-04T22:00:32.000Z,41,8,152,neu
+#bitcoin,Cointelegraph,2207129125,755554,bitcoin leave gold digital dust btcs relative gold doubled months sevenfold october year,2021-04-04T09:00:21.000Z,45,14,203,neu
+#bitcoin,Cointelegraph,2207129125,755554,regulatory environment surrounding bitcoin shakeup chair jay clayton believes regulations directly indirectly,2021-04-04T08:00:01.000Z,18,20,99,neu
+#elrond,Cointelegraph,2207129125,755554,great bullish conditions markets pro vortecs score 24hour chart vortecs identified increasingly bullish conditions elrond day progressed thread elrond egld,2021-04-03T12:39:35.000Z,13,6,90,neu
+#bitcoin,Cointelegraph,2207129125,755554,bitcoin etfs canada firm 3iqcorp filed prospectus btc etf pending approval trading early april tsxtsxv,2021-04-03T05:00:31.000Z,23,11,79,neu
+#ethereum,Cointelegraph,2207129125,755554,ethereum gamechanger mcuban smart contracts decentralized governance model sold cuban eth,2021-04-03T02:45:01.000Z,18,6,139,neu
+#bitcoin,Cointelegraph,2207129125,755554,grayscale losing ground canadas bitcoin etf shares grayscales bitcoin trust traded discount entire month march continue,2021-04-03T02:15:01.000Z,6,4,50,neu
+#bitcoin,Cointelegraph,2207129125,755554,bitcoin etfs canada firm 3iqcorp filed prospectus btc etf pending approval trading early april tsxtsxv,2021-04-03T01:00:05.000Z,14,7,65,neu
+#elrond,Cointelegraph,2207129125,755554,great vortecs score cointelegraph markets pro finding bullish conditions demonstrating emotion expect algorithm thread elrond egld,2021-04-02T18:35:37.000Z,9,4,49,neu
+#bitcoin,Cointelegraph,2207129125,755554,grayscale losing ground canadas bitcoin etf shares grayscales bitcoin trust traded discount entire month march continue,2021-04-02T18:15:01.000Z,9,4,50,neu
+#ethereum,Cointelegraph,2207129125,755554,ethereum gamechanger mcuban smart contracts decentralized governance model sold cuban eth,2021-04-02T17:45:01.000Z,25,12,130,neu
+#bitcoin,Cointelegraph,2207129125,755554,cryptocurrency banned china central bank strong interest cbdc project fueled bitcoins surge,2021-04-02T17:30:10.000Z,9,5,55,neu
+#bitcoin,Cointelegraph,2207129125,755554,regulatory environment surrounding bitcoin shakeup chair jay clayton believes regulations directly indirectly,2021-04-02T15:45:03.000Z,11,7,49,neu
+#bitcoin,Cointelegraph,2207129125,755554,morgan stanley appears dipped toes crypto waters firm seeks gain potential exposure bitcoin grayscale massive institutions follow lead,2021-04-02T00:20:01.000Z,43,10,163,neu
+#bitcoin,Cointelegraph,2207129125,755554,indias biggest marketplace trolling crypto enthusiasts suspicious flipkarts announcement accept bitcoin payments company record pranking customers april fools day,2021-04-01T21:20:01.000Z,8,4,39,neu
+#bitcoin,Cointelegraph,2207129125,755554,bullish bitcoin rally btc closed consecutive monthly green candles time april 2013 history repeat parabolic gains,2021-04-01T21:00:00.000Z,28,5,113,neu
+#bitcoin,Cointelegraph,2207129125,755554,rumors true morgan stanley broadening institutional exposure bitcoin,2021-04-01T19:19:03.000Z,58,13,255,neu
+#bitcoin,Cointelegraph,2207129125,755554,laa laa bitcoin popular childrens teletubbies cryptic tweet teasing big btc generation kids singing rhymes satoshi,2021-04-01T16:30:31.000Z,10,6,48,neu
+#bitcoin,Cointelegraph,2207129125,755255,bullish bitcoin rally btc closed consecutive monthly green candles time april 2013 history repeat parabolic gains,2021-04-01T16:00:55.000Z,19,6,78,neu
+#binance coin,Cointelegraph,2207129125,755554,major breakout waiting analysis bulls buying dip binance coin turned green 24 hours bulls price 315 bnb 348,2021-04-01T14:30:33.000Z,8,6,44,neu
+#binance coin,Cointelegraph,2207129125,755554,major breakout waiting analysis bulls buying dip binance coin turned green 24 hours bulls price 315 bnb 348,2021-04-01T09:20:00.000Z,23,10,76,neu
+#bitcoin,Cointelegraph,2207129125,755554,careful scam crypto app appearing apples app store user lost entire life savings btc,2021-04-01T00:20:01.000Z,49,35,114,neu
+#bitcoin,Cointelegraph,2207129125,755554,regulations coming mining industry marathon digital holdings shifting calls north american bitcoin mining pool fully compliant regulations,2021-03-31T23:20:01.000Z,13,5,54,neu
+#bitcoin,Cointelegraph,2207129125,755554,blockstream mining note security token entered chat tokens alternative investing btc mining stocks,2021-03-31T22:40:01.000Z,9,3,35,neu
+#bitcoin,Cointelegraph,2207129125,755554,blackrocks bitcoin futures represent roughly 000142 firms global allocation fund 612 btc,2021-03-31T21:46:05.000Z,16,13,93,neu
+#bitcoin,Cointelegraph,2207129125,755554,bitcoin worth years krakens ceo believes btc lambo 2022 bugatti 2023 optimistic longterm prospects crypto,2021-03-31T21:40:01.000Z,17,8,115,neu
+#ethereum,Cointelegraph,2207129125,755554,2000 eth ether making higher lows 2021 current trend 1800 bottom april bullish ethereum reporting cointelegraphmt,2021-03-31T20:30:15.000Z,29,16,157,neu
+#bitcoin,Cointelegraph,2207129125,755554,twitter users claimed flipkarts acceptance bitcoin payments true threatening uninstall app company revealed april fools day prank,2021-03-31T19:52:03.000Z,5,7,42,neu
+#bitcoin,Cointelegraph,2207129125,755554,blockstream mining note security token entered chat tokens alternative investing bitcoin mining stocks,2021-03-31T19:45:05.000Z,6,10,42,neu
+#bitcoin,Cointelegraph,2207129125,755554,foundry digital chain capital blockcap bright future vies north american bitcoin mining dominance,2021-03-31T19:01:06.000Z,2,2,21,neu
+#bitcoin,Cointelegraph,2207129125,755554,bitcoin worth years krakens ceo believes btc lambo 2022 bugatti 2023 optimistic longterm prospects crypto,2021-03-31T18:30:20.000Z,26,20,120,neu
+#bitcoin,Cointelegraph,2207129125,755554,dipsy educate children time bitcoin dips,2021-03-31T17:23:32.000Z,10,5,50,neu
+#bitcoin,crypto,928759224599040001,327202,singapore warns public risks trading cryptocurrencies warms bitcoin,2021-04-06T15:11:01.000Z,15,19,49,neu
+#bitcoin,crypto,928759224599040001,327202,singapore warns public risks trading cryptocurrencies warms bitcoin crypto,2021-04-06T04:34:42.000Z,79,45,157,neu
+#bitcoin,crypto,928759224599040001,327203,grayscale bitcoin trust worlds largest institutional holder bitcoin plans flip trust exchangetraded fund crypto,2021-04-06T00:30:09.000Z,78,17,213,neu
+#bitcoin,crypto,928759224599040001,327203,mining bitcoin pay rent cofounder thailands largest licensed cryptocurrency exchange 33yearold fueling crypto boom worrying regulators southeast asias secondlargest economy crypto,2021-04-05T02:25:01.000Z,73,38,230,neu
+#bitcoin,crypto,928759224599040001,327203,congrats bitcoin profits handle taxman bopinion crypto,2021-04-03T02:11:00.000Z,27,16,95,neu
+#bitcoin,crypto,928759224599040001,327203,goldman sachs close offering investment vehicles bitcoin digital assets clients private wealth management unit crypto btc,2021-04-01T03:20:46.000Z,115,29,244,neu
+#bitcoin,crypto,928759224599040001,327203,watch bgarlinghouse ceo ripple labs shares update lawsuit company discusses impact bitcoin mining environment emilychangtv bloombergtv crypto xrp,2021-04-01T02:32:07.000Z,365,57,899,neu
+#bitcoin,laurashin,26377478,147415,unchained mcuban discusses 1 believes ether store bitcoin 2 nft investment thesis 3 dallasmavs musicians authors creators nfts,2021-04-06T13:03:50.000Z,80,55,471,neu
+#ethereum,laurashin,26377478,147415,unchained mcuban discusses 1 believes ether store bitcoin 2 nft investment thesis 3 dallasmavs musicians authors creators nfts,2021-04-06T13:03:50.000Z,80,55,471,neu
+#bitcoin,Excellion,14654494,126875,future excellion hats custom clasps stamped bitcoin logo proofofhat,2021-04-04T03:24:39.000Z,15,12,246,neu
+#bitcoin,Excellion,14654494,126875,shitcoins marketing bitcoin,2021-04-02T07:42:49.000Z,103,9,1350,neu
+#bitcoin,Excellion,14654494,126875,acquire bitcoin fiat comfort decades lining hours blood bank buy sandwich,2021-03-31T21:36:43.000Z,35,4,286,neu
+#bitcoin,mdudas,7184612,52641,chinas digital currency controlled central bank expected chinas government vast tools monitor economy people digital yuan negate bitcoins major draws anonymity user,2021-04-07T01:23:50.000Z,3,5,16,neu
+#binance coin,cz_binance,902926941413453824,1360597,fee opportunity bsc bnb binance,2021-04-07T16:26:40.000Z,164,180,1353,neu
+#ethereum,cz_binance,902926941413453824,1360591,bnb started fee discount token binance cex bnb fee discount coin ethereum enter bsc,2021-04-07T04:12:38.000Z,495,383,3454,neu
+#binance coin,cz_binance,902926941413453824,1360591,bnb started fee discount token binance cex bnb fee discount coin ethereum enter bsc,2021-04-07T04:12:38.000Z,495,383,3454,neu
+#bitcoin,cz_binance,902926941413453824,1360593,personally hold 2 coins btc bought 2014 bnb higher volatilityrisk btc time coins binance hold bit listed people save fees bnb,2021-04-07T04:10:30.000Z,481,480,4142,neu
+#binance coin,cz_binance,902926941413453824,1360597,personally hold 2 coins btc bought 2014 bnb higher volatilityrisk btc time coins binance hold bit listed people save fees bnb,2021-04-07T04:10:30.000Z,481,480,4142,neu
+#binance coin,cz_binance,902926941413453824,1360597,2 modes asset dip ath bnb dip financial advice,2021-04-07T03:55:51.000Z,548,554,5375,neu
+#binance coin,cz_binance,902926941413453824,1360595,friends thighs red slapping selling bnb early,2021-04-06T12:03:14.000Z,534,39,4971,neu
+#binance coin,cz_binance,902926941413453824,1360591,check bnb price chart check chart lot bsc bnb,2021-04-06T08:39:35.000Z,377,426,2427,neu
+#binance coin,cz_binance,902926941413453824,1360592,bnb 370 dip bnb ath 50 long long months 60 days ago financial advice,2021-04-06T03:36:15.000Z,479,311,3234,neu
+#bitcoin,cz_binance,902926941413453824,1360372,understand finance poor understand bitcoin gapping hole financial knowledge learn bitcoin teach friends prosper financial advice,2021-04-05T05:04:58.000Z,1279,454,5809,neu
+#binance coin,cz_binance,902926941413453824,1360597,bnb sets alltime high wider market recovers beincrypto,2021-04-05T04:37:51.000Z,228,143,1395,neu
+#binance usd,cz_binance,902926941413453824,1360597,busd cross 4 billion market cap,2021-04-03T12:06:33.000Z,472,538,5036,neu
+#ethereum,cz_binance,902926941413453824,1360597,eth ath,2021-04-03T07:25:30.000Z,286,331,2792,neu
+#binance coin,cz_binance,902926941413453824,1360597,didnt bnb ath earlier today previous tweet bad yeah ath financial advice,2021-04-02T05:23:03.000Z,655,28,4532,neu
+#bitcoin,cz_binance,902926941413453824,1360593,thinking buying 1 btc worth fiat financial advice happy april fools,2021-04-01T07:54:36.000Z,544,715,6336,neu
+#bitcoin,woonomic,13418472,381395,changing face bitcoin investors 2021 bitcoin forecast move audio form suit corporate directors boardroom meetings free sample,2021-04-01T04:05:05.000Z,103,148,1258,neu
