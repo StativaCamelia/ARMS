@@ -86,14 +86,17 @@ def connect_to_endpoint(url, headers):
 cryptocurrencies = []
 
 
-def create_nodes_file():
-    crypto = get_crypto()
+def write_nodes_file(crypto, used_users):
     with open('node.csv', mode='w') as crypto_file:
         crypto_writer = csv.writer(crypto_file, delimiter=',', quotechar='"', quoting=csv.QUOTE_MINIMAL)
-        crypto_writer.writerow(['id', 'cryptocurrency'])
+        crypto_writer.writerow(['Id','Label','nodeType'])
         for i in range(len(crypto)):
-            crypto_writer.writerow([str(i), crypto[i][0][1:]])
-            cryptocurrencies.append(crypto[i][0][1:])
+            crypto_writer.writerow([crypto[i], crypto[i], 'crypto'])
+            cryptocurrencies.append(crypto[i])
+        for i in range(len(used_users)):
+            crypto_writer.writerow([used_users[i], used_users[i], 'user'])
+            cryptocurrencies.append(used_users[i])
+
 
 
 def load_dataset(file_path):
@@ -108,6 +111,25 @@ def punctuation_removal(messy_str):
     punctuation = string.punctuation + "“’…–”‘"
     clean_str = messy_str.translate(str.maketrans('', '', punctuation))
     return clean_str
+
+def create_node_file(filename):
+    used_crypt = []
+    used_users = []
+    df = load_dataset(filename)
+    for cryto, user in zip(df['cryptocurrency'], df['username']):
+        if not cryto in used_crypt:
+            used_crypt.append(cryto)
+        if not user in used_users:
+            used_users.append(user)
+    write_nodes_file(used_crypt, used_users)
+
+def create_edge_file(filename):
+    df = load_dataset(filename)
+    with open('edge.csv', mode='w') as crypto_file:
+        crypto_writer = csv.writer(crypto_file, delimiter=',', quotechar='"', quoting=csv.QUOTE_MINIMAL)
+        crypto_writer.writerow(['source', 'target', 'Label'])
+        for source, target, sentiment in zip(df['username'], df['cryptocurrency'], df['sentiment']):
+            crypto_writer.writerow([source, target, sentiment])
 
 
 def clean_tweets(filename):
@@ -172,6 +194,7 @@ def main():
 
 
 if __name__ == "__main__":
-    # create_nodes_file()
+    create_edge_file("clean_tweets.csv")
+    create_node_file("clean_tweets.csv")
     # main()
-    clean_tweets('crypto_file_week5.csv')
+    # clean_tweets('crypto_file_week5.csv')
