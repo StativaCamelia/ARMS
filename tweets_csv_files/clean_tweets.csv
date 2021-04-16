@@ -1,4 +1,4 @@
-﻿cryptocurrency,username,user_id,followers_count,tweet_without_stopwords,created_date,retweet_count,reply_count,like_count,sentiment
+﻿cryptocurrency,username,user_id,followers_count,tweet_text,created_date,retweet_count,reply_count,like_count,sentiment
 #bitcoin,rogerkver,176758255,650488,message bitcoin maximalists michaelsaylor cpay taxesd cobey mastersd,2021-03-09T14:58:39.000Z,139,257,652,neu
 #bitcoin,aantonop,1469101279,570361,month qampa livestream questions patreon community builders curious check februarys chatted paper wallets criminals bitcoin,2021-03-15T08:00:15.000Z,6,4,40,neu
 #bitcoin,aantonop,1469101279,570361,ignore noise learn bitcoin crypto lifeboat learn latest talk,2021-03-13T09:01:35.000Z,124,31,552,neu

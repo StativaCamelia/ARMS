@@ -1,37 +1,37 @@
-Id,Label,nodeType
-#bitcoin,#bitcoin,crypto
-#litecoin,#litecoin,crypto
-#dogecoin,#dogecoin,crypto
-#ethereum,#ethereum,crypto
-#xrp,#xrp,crypto
-#chiliz,#chiliz,crypto
-#binance coin,#binance coin,crypto
-#cosmos,#cosmos,crypto
-#cardano,#cardano,crypto
-#chainlink,#chainlink,crypto
-#solana,#solana,crypto
-#bitcoin cash,#bitcoin cash,crypto
-#harmony,#harmony,crypto
-#filecoin,#filecoin,crypto
-#polkadot,#polkadot,crypto
-#elrond,#elrond,crypto
-#binance usd,#binance usd,crypto
-#vechain,#vechain,crypto
-#algorand,#algorand,crypto
-rogerkver,rogerkver,user
-aantonop,aantonop,user
-ErikVoorhees,ErikVoorhees,user
-tyler,tyler,user
-cameron,cameron,user
-Cointelegraph,Cointelegraph,user
-crypto,crypto,user
-laurashin,laurashin,user
-Excellion,Excellion,user
-CoinDeskMarkets,CoinDeskMarkets,user
-Timccopeland,Timccopeland,user
-cz_binance,cz_binance,user
-woonomic,woonomic,user
-PhilakoneCrypto,PhilakoneCrypto,user
-iamjosephyoung,iamjosephyoung,user
-SatoshiLite,SatoshiLite,user
-mdudas,mdudas,user
+Id,Label,nodeType,lat,long
+#bitcoin,#bitcoin,crypto,100,100
+#litecoin,#litecoin,crypto,100,101
+#dogecoin,#dogecoin,crypto,100,102
+#ethereum,#ethereum,crypto,100,103
+#xrp,#xrp,crypto,100,104
+#chiliz,#chiliz,crypto,100,105
+#binance coin,#binance coin,crypto,100,106
+#cosmos,#cosmos,crypto,100,107
+#cardano,#cardano,crypto,100,108
+#chainlink,#chainlink,crypto,100,109
+#solana,#solana,crypto,100,110
+#bitcoin cash,#bitcoin cash,crypto,100,111
+#harmony,#harmony,crypto,100,112
+#filecoin,#filecoin,crypto,100,113
+#polkadot,#polkadot,crypto,100,114
+#elrond,#elrond,crypto,100,115
+#binance usd,#binance usd,crypto,100,116
+#vechain,#vechain,crypto,100,117
+#algorand,#algorand,crypto,100,118
+rogerkver,rogerkver,user,200,200
+aantonop,aantonop,user,200,201
+ErikVoorhees,ErikVoorhees,user,200,202
+tyler,tyler,user,200,203
+cameron,cameron,user,200,204
+Cointelegraph,Cointelegraph,user,200,205
+crypto,crypto,user,200,206
+laurashin,laurashin,user,200,207
+Excellion,Excellion,user,200,208
+CoinDeskMarkets,CoinDeskMarkets,user,200,209
+Timccopeland,Timccopeland,user,200,210
+cz_binance,cz_binance,user,200,211
+woonomic,woonomic,user,200,212
+PhilakoneCrypto,PhilakoneCrypto,user,200,213
+iamjosephyoung,iamjosephyoung,user,200,214
+SatoshiLite,SatoshiLite,user,200,215
+mdudas,mdudas,user,200,216

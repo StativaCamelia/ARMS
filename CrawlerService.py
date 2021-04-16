@@ -89,12 +89,12 @@ cryptocurrencies = []
 def write_nodes_file(crypto, used_users):
     with open('node.csv', mode='w') as crypto_file:
         crypto_writer = csv.writer(crypto_file, delimiter=',', quotechar='"', quoting=csv.QUOTE_MINIMAL)
-        crypto_writer.writerow(['Id','Label','nodeType'])
+        crypto_writer.writerow(['Id','Label','nodeType', 'lat', 'long'])
         for i in range(len(crypto)):
-            crypto_writer.writerow([crypto[i], crypto[i], 'crypto'])
+            crypto_writer.writerow([crypto[i], crypto[i], 'crypto', 100, 100 + i])
             cryptocurrencies.append(crypto[i])
         for i in range(len(used_users)):
-            crypto_writer.writerow([used_users[i], used_users[i], 'user'])
+            crypto_writer.writerow([used_users[i], used_users[i], 'user', 200, 200 + i])
             cryptocurrencies.append(used_users[i])
 
 
@@ -147,14 +147,17 @@ def clean_tweets(filename):
     wordfreq = {}
     for user in user_list:
         wordfreq_user = {}
-        for sentence, username in zip(df['tweet_without_stopwords'], df['username']):
+        for sentence, username, cryptoMention in zip(df['tweet_without_stopwords'], df['username'], df["cryptocurrency"]):
             if username == user:
                 tokens = nltk.word_tokenize(sentence)
+                wordfreq_user[cryptoMention] = {}
                 for token in tokens:
-                    if token not in wordfreq_user.keys():
-                        wordfreq_user[token] = 1
-                    else:
-                        wordfreq_user[token] += 1
+                    if token not in crypto:
+                        if token not in wordfreq_user[cryptoMention].keys():
+                            wordfreq_user[cryptoMention][token] = 1
+                        else:
+                            wordfreq_user[cryptoMention][token] += 1
+                wordfreq_user[cryptoMention] = dict(sorted(wordfreq_user[cryptoMention].items(), key=lambda item: item[1], reverse=True))
         wordfreq[user] = wordfreq_user
     with open('./freq_tweets/' + filename.replace('.csv', '.json'), 'w') as f:
         json.dump(wordfreq, f, indent=4)
@@ -194,7 +197,9 @@ def main():
 
 
 if __name__ == "__main__":
-    create_edge_file("clean_tweets.csv")
-    create_node_file("clean_tweets.csv")
+    # create_edge_file("clean_tweets.csv")
+    # create_node_file("clean_tweets.csv")
     # main()
-    # clean_tweets('crypto_file_week5.csv')
+    crypto = get_crypto()
+    crypto = [i[0][1:] for i in crypto]
+    clean_tweets("clean_tweets.csv")
